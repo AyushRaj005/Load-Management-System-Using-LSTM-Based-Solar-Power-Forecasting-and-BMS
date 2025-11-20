@@ -41,7 +41,7 @@ By forecasting solar power output accurately and integrating a smart BMS alongsi
    ```bash
    git clone https://github.com/AyushRaj005/Load-Management-System-Using-LSTM-Based-Solar-Power-Forecasting-and-BMS.git
    cd Load-Management-System-Using-LSTM-Based-Solar-Power-Forecasting-and-BMS
-````
+   ```
 
 2. Create and activate a Python virtual environment (recommended):
 
